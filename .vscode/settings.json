@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "codebasicC.C": "cpp"
+        "codebasicC.C": "cpp",
+        "codes.C": "cpp"
     }
 }

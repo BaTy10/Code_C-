@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "codebasicC.C": "cpp",
-        "codes.C": "cpp"
+        "codes.C": "cpp",
+        "codeMathGuard.C": "cpp"
     }
 }
